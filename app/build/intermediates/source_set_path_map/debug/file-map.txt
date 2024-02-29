@@ -1,0 +1,8 @@
+ca.yorku.eecs.mack.demoscale.app-pngs-0 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/generated/res/pngs/debug
+ca.yorku.eecs.mack.demoscale.app-resValues-1 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/generated/res/resValues/debug
+ca.yorku.eecs.mack.demoscale.app-rs-2 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/generated/res/rs/debug
+ca.yorku.eecs.mack.demoscale.app-mergeDebugResources-3 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+ca.yorku.eecs.mack.demoscale.app-mergeDebugResources-4 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+ca.yorku.eecs.mack.demoscale.app-merged_res-5 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/intermediates/merged_res/debug
+ca.yorku.eecs.mack.demoscale.app-debug-6 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/src/debug/res
+ca.yorku.eecs.mack.demoscale.app-main-7 /Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/src/main/res

@@ -1,0 +1,4 @@
+#Mon Feb 26 20:50:17 EST 2024
+base.0=/Users/niarajnish/Desktop/4443/Demo_Scale_47754/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
